@@ -1,0 +1,2 @@
+# bug-free-bassoon
+Earned a badge in *cultural competence and global perspectives in computer science careers*. It strengthened my understanding of how culture shapes teamwork, communication, and technology, and taught me to collaborate respectfully with diverse colleagues and build software that serves people worldwide, preparing me for global tech careers.
